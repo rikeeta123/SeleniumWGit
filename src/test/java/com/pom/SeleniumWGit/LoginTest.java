@@ -6,6 +6,7 @@ public class LoginTest {
 	
 		
 		int i=10;
+		String s="java";
 
 	}
 
